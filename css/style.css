@@ -1683,3 +1683,7 @@ input[type="text"] {
   margin-left: 30%;
   margin-top: 3%;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
