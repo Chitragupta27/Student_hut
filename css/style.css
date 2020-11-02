@@ -1687,3 +1687,8 @@ input[type="text"] {
   width: 100%;
   height: auto;
 }
+
+.respon {
+  width: 75%;
+  height: auto;
+}
