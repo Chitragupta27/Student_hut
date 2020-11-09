@@ -1678,11 +1678,11 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0; }
 
-#button{
-  width: 30%;
-  margin-left: 30%;
-  margin-top: 3%;
-}
+  #button{
+    width: 30%;
+    margin-left: 17%;
+    margin-top: 3%;
+  }
 .responsive {
   width: 100%;
   height: auto;
