@@ -1683,12 +1683,25 @@ input[type="text"] {
     margin-left: 17%;
     margin-top: 3%;
   }
-.responsive {
+  .responsive {
+    width: 100%;
+    height: auto;
+    
+  }
+.bg-image {
+  background-image: url(../images/motobg.jpg);
   width: 100%;
   height: auto;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .respon {
   width: 75%;
   height: auto;
+}
+#buttonn{
+  width: 30%;
+  margin-left: 45%;
+  margin-top: 3%;
 }
