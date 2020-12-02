@@ -1695,6 +1695,12 @@ input[type="text"] {
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
+.bg-image-set {
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: 100% 99%;
+}
 
 .respon {
   width: 75%;
